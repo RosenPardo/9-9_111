@@ -1,3 +1,0 @@
-Esta es mi primera prueba con git.
-
-git clone
